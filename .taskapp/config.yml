@@ -1,0 +1,20 @@
+# Rootask 專案設定。可以在 App 的設定頁修改，也可以直接編輯這個檔案。
+version: 1
+statuses:
+  - id: todo
+    name: 待處理
+    category: todo
+  - id: doing
+    name: 進行中
+    category: active
+  - id: review
+    name: 待審核
+    category: active
+  - id: done
+    name: 完成
+    category: done
+  - id: dropped
+    name: 放棄
+    category: cancelled
+attachment_threshold_mb: 10
+auto_complete_parent: false
