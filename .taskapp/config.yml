@@ -16,5 +16,6 @@ statuses:
   - id: dropped
     name: 放棄
     category: cancelled
-attachment_threshold_mb: 10
+transitions: []
 auto_complete_parent: false
+attachment_threshold_mb: 10
