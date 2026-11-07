@@ -16,6 +16,9 @@ statuses:
   - id: dropped
     name: 放棄
     category: cancelled
+  - id: padding
+    name: 暫停
+    category: active
 transitions: []
 auto_complete_parent: false
 attachment_threshold_mb: 10
